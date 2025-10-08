@@ -1,0 +1,17 @@
+{
+  "name": "komlavi",
+  "version": "1.0.0",
+  "description": "setp by setp my first app",
+  "repository": {
+    "type": "git",
+    "url": "amenvi18-tech"
+  },
+  "license": "ISC",
+  "author": "amen -gidi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
